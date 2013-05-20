@@ -1,0 +1,6 @@
+name             "apticron_test"
+maintainer       "Openhood S.E.N.C"
+maintainer_email "jonathan@openhood.com"
+license          "Apache 2.0"
+description      "This cookbook is used with test-kitchen to test the parent, apticron cookbok"
+version          "1.0.0"
